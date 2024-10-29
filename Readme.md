@@ -11,7 +11,7 @@
   </div>
    
   <div>
-    <h3 align="left">Skill Set</h3>
+    <h2 align="left">🌟 Skill Set</h2>
     <p><b>- Front-End: </b> HTML, CSS, JQuery, Bootstrap, React, Vue, Angular, Next, Nuxt, MUI, TailwindCSS, ... </p>
     <p>
       <a href="/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
