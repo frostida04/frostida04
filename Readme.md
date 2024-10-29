@@ -62,7 +62,7 @@
       <a href="/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/> </a>
       <a href="/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/> </a>
       <a href="/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c" width="40" height="40"/> </a>
-      <a href="/" target="_blank" rel="noreferrer"> <img src="https://vyper.readthedocs.io/en/stable/_images/vyper-logo-original.svg" alt="vyper" width="40" height="40"/> </a>
+      <a href="/" target="_blank" rel="noreferrer"> <img src="https://vyper.readthedocs.io/en/stable/_images/vyper-original.svg" alt="vyper" width="40" height="40"/> </a>
       <a href="/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
       <a href="/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-plain.svg" alt="mocha" width="40" height="40"/> </a>
     </p>
